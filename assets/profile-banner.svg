@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Zeiad Al-Ghalabi</title>
+<desc id="desc">Digital products, creative thinking, and practical AI. Based in Libya.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101923"/><stop offset="1" stop-color="#0A1016"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#91E3BD"/><stop offset="1" stop-color="#65A8D4"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#91E3BD" stroke-opacity=".06"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+<rect x="780" width="420" height="360" rx="20" fill="url(#grid)"/>
+<rect x="54" y="51" width="28" height="3" rx="1.5" fill="#91E3BD"/>
+<text x="96" y="58" fill="#91E3BD" font-family="DejaVu Sans,Arial,sans-serif" font-size="12" letter-spacing="2.8">IDEAS. PRODUCTS. POSSIBILITIES.</text>
+<text x="54" y="153" fill="#F1F5F4" font-family="DejaVu Sans,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Zeiad Al-Ghalabi</text>
+<text x="57" y="201" fill="#B4C3CD" font-family="DejaVu Sans,Arial,sans-serif" font-size="22">Turning curiosity into useful digital experiences.</text>
+<path d="M57 241H664" stroke="#293844"/>
+<circle cx="62" cy="283" r="4" fill="#91E3BD"/>
+<text x="78" y="288" fill="#A5B7C3" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" letter-spacing="1.2">LIBYA</text>
+<text x="170" y="288" fill="#A5B7C3" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" letter-spacing="1.2">PRODUCTS / AI / CREATIVE STRATEGY</text>
+<g fill="none" stroke="url(#accent)">
+<rect x="896" y="89" width="184" height="184" rx="34" stroke-width="1.3" opacity=".30" transform="rotate(-18 988 181)"/>
+<rect x="884" y="77" width="184" height="184" rx="34" stroke-width="1.3" opacity=".55" transform="rotate(8 976 169)"/>
+<rect x="872" y="65" width="184" height="184" rx="34" stroke-width="1.5" opacity=".90" transform="rotate(32 964 157)"/>
+</g>
+<path d="m948 139-26 26 26 26m33-52 26 26-26 26" fill="none" stroke="#91E3BD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<circle cx="1085" cy="74" r="5" fill="#91E3BD"/>
+<circle cx="864" cy="278" r="3" fill="#65A8D4"/>
+</svg>
